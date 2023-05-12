@@ -41518,7 +41518,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 315px;
+  min-height: 524px;
 }
 
 .u-header .u-menu-1 {
@@ -41534,31 +41534,111 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 
+.u-header .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-header .u-layout-cell-1 {
+  min-height: 263px;
+}
+
+.u-header .u-container-layout-1 {
+  padding: 0 30px;
+}
+
 .u-header .u-image-1 {
   width: 367px;
   height: 277px;
-  margin: 19px auto;
+  margin: 0 auto -44px;
+}
+
+.u-header .u-layout-cell-2 {
+  min-height: 261px;
+}
+
+.u-header .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-header .u-custom-html-1 {
+  margin: 55px auto 0;
 }
 @media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
+  .u-header .u-sheet-1 {
+    min-height: 666px;
+  }
+
+  .u-header .u-layout-cell-1 {
+    min-height: 217px;
   }
 
   .u-header .u-image-1 {
     width: 367px;
     height: 278px;
   }
+
+  .u-header .u-layout-cell-2 {
+    min-height: 215px;
+  }
+
+  .u-header .u-custom-html-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
 }
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 564px;
+  }
 
+  .u-header .u-layout-cell-1 {
+    min-height: 166px;
+  }
 
+  .u-header .u-layout-cell-2 {
+    min-height: 165px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 482px;
+  }
+
+  .u-header .u-layout-cell-1 {
+    min-height: 125px;
+  }
+
+  .u-header .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-header .u-layout-cell-2 {
+    min-height: 124px;
+  }
+
+  .u-header .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 295px;
+    min-height: 370px;
+  }
+
+  .u-header .u-layout-cell-1 {
+    min-height: 79px;
   }
 
   .u-header .u-image-1 {
-    width: 340px;
-    height: 258px;
+    width: 320px;
+    height: 242px;
+  }
+
+  .u-header .u-layout-cell-2 {
+    min-height: 78px;
   }
 }
  .u-footer {
