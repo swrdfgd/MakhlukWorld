@@ -15,6 +15,7 @@
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P:400">
     
     
+    
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -155,6 +156,203 @@
       
       
       
+    </section>
+    <section class="u-align-center u-clearfix u-grey-5 u-section-2" id="sec-f05a">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-default u-text-1">Bacaan</h1>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-col">
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <div class="u-clearfix u-custom-html u-expanded-width u-custom-html-1">
+                    <div id="sidebar">
+                      <style scoped="scoped" type="text/css"> #sidebar {
+      width: 100%;
+      float: left;
+				line-height: 1.5;
+      background-color: rgba(255, 255, 255, 0.7);
+      padding: 20px;
+    }
+#arlina-random ul{list-style:none;margin:0;padding:0}#arlina-random li{display:block;clear:both;overflow:hidden;list-style:none;border-bottom:1px solid #e3e3e3;word-break:break-word;padding:10px 0;margin:0;}
+#arlina-random li:last-child{border-bottom:0;}
+#arlina-random li a{color:#444;}#arlina-random li a:hover{color:#444;text-decoration:underline} </style>
+                      <div id="arlina-random1" class="arlina-random">Memuat...</div>
+                      <div id="arlina-random2" class="arlina-random">Memuat...</div>
+                      <div id="arlina-random3" class="arlina-random">Memuat...</div>
+                      <div id="arlina-random4" class="arlina-random">Memuat...</div>
+                      <script> daftarweb = ['https://nuranimahasiswamerdeka.blogspot.com/',]; </script>
+                      <script> var maxResults = 1,
+    
+    pilihanweb = Math.floor(Math.random()*(daftarweb.length)),
+    homePage = daftarweb[pilihanweb],
+    containerId = 'arlina-random1';
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+function shuffleArray(arr) {
+    var i = arr.length, j, temp;
+    if (i === 0) return false;
+    while (--i) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    return arr;
+}
+function ArlinaRandomPosts(json) {
+    var startIndex = getRandomInt(1, (json.feed.openSearch$totalResults.$t - maxResults));
+    // console.log('Get the post feed start from ' + startIndex + ' until ' + (startIndex + maxResults));
+    document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&orderby=updated&start-index=' + startIndex + '&max-results=' + maxResults + '&callback=randomPosts"></scr' + 'ipt>');
+}
+function randomPosts(json) {
+    var link, ct = document.getElementById(containerId),
+        entry = shuffleArray(json.feed.entry),
+        skeleton = "<ul>";
+    for (var i = 0, len = entry.length; i < len; i++) {
+        for (var j = 0, jen = entry[i].link.length; j < jen; j++) {
+            link = (entry[i].link[j].rel == "alternate") ? entry[i].link[j].href : '#';
+        }
+		if (entry[i].title.$t.length >= 1){
+        skeleton += '<li><a target="_blank" href="' + link + '">' + entry[i].title.$t + '</a></li>';}
+		else {skeleton += '<li><a target="_blank" href="' + link + '">' + 'Bacaan Tanpa Judul' + '</a></li>';
+		}
+    }
+    ct.innerHTML = skeleton + '</ul>';
+}
+document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&max-results=0&callback=ArlinaRandomPosts"></scr' + 'ipt>'); </script>
+                      <script> var maxResults = 1,
+    pilihanweb = Math.floor(Math.random()*(daftarweb.length)),
+    homePage = daftarweb[pilihanweb],
+    containerId = 'arlina-random2';
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+function shuffleArray(arr) {
+    var i = arr.length, j, temp;
+    if (i === 0) return false;
+    while (--i) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    return arr;
+}
+function ArlinaRandomPosts(json) {
+    var startIndex = getRandomInt(1, (json.feed.openSearch$totalResults.$t - maxResults));
+    // console.log('Get the post feed start from ' + startIndex + ' until ' + (startIndex + maxResults));
+    document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&orderby=updated&start-index=' + startIndex + '&max-results=' + maxResults + '&callback=randomPosts"></scr' + 'ipt>');
+}
+function randomPosts(json) {
+    var link, ct = document.getElementById(containerId),
+        entry = shuffleArray(json.feed.entry),
+        skeleton = "<ul>";
+    for (var i = 0, len = entry.length; i < len; i++) {
+        for (var j = 0, jen = entry[i].link.length; j < jen; j++) {
+            link = (entry[i].link[j].rel == "alternate") ? entry[i].link[j].href : '#';
+        }
+        if (entry[i].title.$t.length >= 1){
+        skeleton += '<li><a target="_blank" href="' + link + '">' + entry[i].title.$t + '</a></li>';}
+		else {skeleton += '<li><a target="_blank" href="' + link + '">' + 'Bacaan Tanpa Judul' + '</a></li>';
+		}
+    }
+    ct.innerHTML = skeleton + '</ul>';
+}
+document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&max-results=0&callback=ArlinaRandomPosts"></scr' + 'ipt>'); </script>
+                      <script> var maxResults = 1,
+    pilihanweb = Math.floor(Math.random()*(daftarweb.length)),
+    homePage = daftarweb[pilihanweb],
+    containerId = 'arlina-random3';
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+function shuffleArray(arr) {
+    var i = arr.length, j, temp;
+    if (i === 0) return false;
+    while (--i) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    return arr;
+}
+function ArlinaRandomPosts(json) {
+    var startIndex = getRandomInt(1, (json.feed.openSearch$totalResults.$t - maxResults));
+    // console.log('Get the post feed start from ' + startIndex + ' until ' + (startIndex + maxResults));
+    document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&orderby=updated&start-index=' + startIndex + '&max-results=' + maxResults + '&callback=randomPosts"></scr' + 'ipt>');
+}
+function randomPosts(json) {
+    var link, ct = document.getElementById(containerId),
+        entry = shuffleArray(json.feed.entry),
+        skeleton = "<ul>";
+    for (var i = 0, len = entry.length; i < len; i++) {
+        for (var j = 0, jen = entry[i].link.length; j < jen; j++) {
+            link = (entry[i].link[j].rel == "alternate") ? entry[i].link[j].href : '#';
+        }
+        if (entry[i].title.$t.length >= 1){
+        skeleton += '<li><a target="_blank" href="' + link + '">' + entry[i].title.$t + '</a></li>';}
+		else {skeleton += '<li><a target="_blank" href="' + link + '">' + 'Bacaan Tanpa Judul' + '</a></li>';
+		}
+    }
+    ct.innerHTML = skeleton + '</ul>';
+}
+document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&max-results=0&callback=ArlinaRandomPosts"></scr' + 'ipt>'); </script>
+                      <script> var maxResults = 1,
+    pilihanweb = Math.floor(Math.random()*(daftarweb.length)),
+    homePage = daftarweb[pilihanweb],
+    containerId = 'arlina-random4';
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+function shuffleArray(arr) {
+    var i = arr.length, j, temp;
+    if (i === 0) return false;
+    while (--i) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    return arr;
+}
+function ArlinaRandomPosts(json) {
+    var startIndex = getRandomInt(1, (json.feed.openSearch$totalResults.$t - maxResults));
+    // console.log('Get the post feed start from ' + startIndex + ' until ' + (startIndex + maxResults));
+    document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&orderby=updated&start-index=' + startIndex + '&max-results=' + maxResults + '&callback=randomPosts"></scr' + 'ipt>');
+}
+function randomPosts(json) {
+    var link, ct = document.getElementById(containerId),
+        entry = shuffleArray(json.feed.entry),
+        skeleton = "<ul>";
+    for (var i = 0, len = entry.length; i < len; i++) {
+        for (var j = 0, jen = entry[i].link.length; j < jen; j++) {
+            link = (entry[i].link[j].rel == "alternate") ? entry[i].link[j].href : '#';
+        }
+        if (entry[i].title.$t.length >= 1){
+        skeleton += '<li><a target="_blank" href="' + link + '">' + entry[i].title.$t + '</a></li>';}
+		else {skeleton += '<li><a target="_blank" href="' + link + '">' + 'Bacaan Tanpa Judul' + '</a></li>';
+		}
+    }
+    ct.innerHTML = skeleton + '</ul>';
+}
+document.write('<scr' + 'ipt src="' + homePage + '/feeds/posts/summary?alt=json-in-script&max-results=0&callback=ArlinaRandomPosts"></scr' + 'ipt>'); </script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2"></div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
+                <div class="u-container-layout u-container-layout-3"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
     
     
