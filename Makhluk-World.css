@@ -550,4 +550,53 @@
   .u-section-2 .u-layout-cell-3 {
     min-height: 40px;
   }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 618px;
+}
+
+.u-section-3 .u-video-1 {
+  height: 360px;
+  width: 640px;
+  margin: 78px auto 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 549px;
+  }
+
+  .u-section-3 .u-video-1 {
+    height: 300px;
+    margin-top: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 473px;
+  }
+
+  .u-section-3 .u-video-1 {
+    height: 190px;
+    margin-top: 105px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
 }
