@@ -7,5 +7,16 @@ splashList = [
 'Bipatride dapat terjadi saat seorang anak keturunan bangsa B yang menganut asas <i>ius sanguinis</i> lahir di negara A yang menganut asas <i>ius soli</i>.',
 'Dokuritsu Junbi Cosakai atau BPUPKI didirikan oleh Kumaikici Harada pada tanggal 1 Maret 1945 dengan maksud agar Indonesia membantu Jepang melawan sekutu.',
 'Sistem pertahanan dan keamanan Indonesia menurut UUD 1945 adalah upaya pertahanan dan keamanan negara yang dilaksanakan melalui sistem pertahanan dan keamanan rakyat semesta.',
+'Anata wa o hana wo suki desuka?',
+'Watashi wa ima jouzu desu yo!',
+'Watashi wa ima mou wakarimasu.',
+'Ima wa sukoshi dake da yo.',
+'Amari mucha suruna yo!',
+'Shiawase ni wa takusan aru yo.',
+'Watashi wa zenzen kizukenakatta.',
+'Doushite naite ita no desuka?',
+'Ima kara hajimemashou ka?',
+'Apa kamu sudah selesai belajar?',
+'Rumus mencari sekala. Jarak pada gambar dibagi jarak sebenarnya.',
 
 ]
