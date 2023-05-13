@@ -7,4 +7,5 @@ splashList = [
 'Mencari keuntungan dalam kekacauan.',
 'Tiga hal siapa yang melakukannya, maka ia berpotensi mendapatkan murka: tertawa tanpa ada sesuatu yang mengejutkan, tidur tanpa begadang, dan makan tanpa rasa lapar.',
 'Jika Amerika Serikat salah, harapan apa yang kita miliki dari dunia beradab pada gilirannya?',
+'Tidak ada yang peduli pada nasib buruh, selama mereka mendapatkan kepuasan secara instan.',
 ]
