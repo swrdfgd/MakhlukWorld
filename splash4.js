@@ -33,4 +33,6 @@ splashList = [
 'But we, the great, the valiant, and the wise,<br>When once the seal of death has closed our eyes,<br>Lost in the hollow tomb obscure and deep,<br>Slumber, to wake no more, one long unbroken sleep!',
 'I\'ll see you next time!',
 'When we see a film, half of what we see is what we bring to it.',
+'Just because my butt is so humble.',
+'A ring around the finger does not cause a nerve block to the genitals.',
 ]
