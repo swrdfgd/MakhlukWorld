@@ -33,5 +33,6 @@ splashList = [
 'Nowadays people use online news portal or website to know the latest updates and news across the globe.',
 'It is flexible to read and get the latest news everywhere that you want via online news portal.',
 '中国证券报社版权所有，未经书面授权不得复制或建立镜像',
+'But it doesn’t have to be…',
 
 ]
