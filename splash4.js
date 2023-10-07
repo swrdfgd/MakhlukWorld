@@ -35,4 +35,7 @@ splashList = [
 'When we see a film, half of what we see is what we bring to it.',
 'Just because my butt is so humble.',
 'A ring around the finger does not cause a nerve block to the genitals.',
+'Masuk tak genap, keluar tak ganjil.',
+'Makin murah, makin ditawar.',
+'Hidung dicium pipi digigit.',
 ]
