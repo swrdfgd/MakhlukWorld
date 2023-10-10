@@ -7,4 +7,5 @@ splashList = [
 'Jangan campurkan retinol yang akan digunakan di wajah dengan vitamin C',
 'Jangan campurkan retinol yang akan digunakan di wajah dengan AHA',
 'Jangan campurkan retinol yang akan digunakan di wajah dengan BHA',
+'Kuina fell down the steps at home and died...',
 ]
