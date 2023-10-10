@@ -36,4 +36,9 @@ splashList = [
 'Persatuan dan kesatuan membangun bangsa Indonesia yang lebih maju dan aman, menciptakan rasa toleransi dan toleransi dalam menghadapi perbedaan.',
 'Kita ciptakan rasa kekeluargaan, semangat kebersamaan, gotong royong, peduli sesama dan gotong royong dalam kehidupan bermasyarakat.',
 'Persatuan dan kesatuan mewujudkan masyarakat yang lebih baik, lebih rukun, lebih seimbang, lebih rukun, lebih damai, lebih setia, aman dan damai.',
+'Ketika manusia jatuh dalam dosa maka hati nuraninya sudah​ kotor',
+'Youtube adalah contoh media sosialisasi digital.',
+'Indonesia terletak di antara dua benua yaitu benua Asia dan benua Australia.',
+'Tanpa adanya pancasila, negara indonesia tidak akan berdiri kokoh atau tidak memiliki dasar yang kuat',
+
 ]
