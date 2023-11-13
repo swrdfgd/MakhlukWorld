@@ -28,5 +28,9 @@ splashList = [
 'Terus belajar dan bersekolah (tidak putus sekolah) dengan rajin, disiplin dan tekun.',
 'Dari 52 bilangan bulat yang dipilih secara acak, akan terdapat dua bilangan di antaranya yang jumlah atau selisihnya habis dibagi 100.',
 '\\int  \\sin{\\left ( 4x \\right )} dx = -\\frac{1}{4} \\cos{\\left ( 4x \\right )} + C',
+'\\(g: A \\mapsto X^{*} AX\\) is positive, where \\(X\\) is a fixed \\(n \\times k \\) matrix.',
+'Masing-masing individu siswa dapat diamati secara individual atau berkelompok sebelum, saat berlangsung, dan sesudah usai pembelajaran. Perubahan pada setiap individu juga dapat diamati, dalam kurun waktu tertentu, mulai dari sebelum dilakukan tindakan, saat tindakan diimplementasikan, dan seusai tindakan.',
+'Let \\(H\\) and \\(K\\) be a finite subgroups of a group \\(G\\) such that \\(H \\cap K = \\left \\{ e \\right \\} \\). Then <br>
+\\( \\left | HK \\right | = \\left | H \\right | \\left | K \\right | \\).',
 
 ]
