@@ -242,4 +242,9 @@ splashList = [
 'Barang tergenggam jatuh terlepas.',
 'Lebih mudah mencintai seluruh umat manusia daripada mencintai seorang tetangga.',
 'Emping terserak, hari hujan.',
+'Maybe there are people who\'ve cut all kinds of corners and they get to the top and they\'re so stoked.',
+'Yet the greatest and most fundamental striving is the jihad of the spirit.',
+'I think if I had my life again I would not be so utterly self-satisfied.',
+'Truth and Virtue do not necessarily belong to wealth and Power and Distinctions of Big Mansions.',
+
 ]
