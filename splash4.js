@@ -246,5 +246,8 @@ splashList = [
 'Yet the greatest and most fundamental striving is the jihad of the spirit.',
 'I think if I had my life again I would not be so utterly self-satisfied.',
 'Truth and Virtue do not necessarily belong to wealth and Power and Distinctions of Big Mansions.',
+'I have not yet finished my life\'s work.',
+'Chaos. Corruption. Civil War.',
+'Science vs. Technology',
 
 ]
