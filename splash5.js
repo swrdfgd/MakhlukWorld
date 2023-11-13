@@ -26,4 +26,7 @@ splashList = [
 '\\( \\mathbb{R} \\) is the set of real numbers.',
 'Kompetensi merupakan gambaran tentang apa yang seyogyanya dapat dilakukan (be able to do) seseorang dalam suatu pekerjaan berupa suatu kegiatan, perilaku dan hasil yang seyogyanya dapat ditampilkan atau ditunjukan. Agar dapat melakukan seseatu dalam pekerjaanya, tentu saja seseorang harus memeliki kemampuan (ability) atau dalam bentuk pengetahuan(knowledge) sikap (attitude) dan keterampilan (skill) yang sesuai dengan bidang pekerjaannya.',
 'Terus belajar dan bersekolah (tidak putus sekolah) dengan rajin, disiplin dan tekun.',
+'Dari 52 bilangan bulat yang dipilih secara acak, akan terdapat dua bilangan di antaranya yang jumlah atau selisihnya habis dibagi 100.',
+'\\int  \\sin{\\left ( 4x \\right )} dx = -\\frac{1}{4} \\cos{\\left ( 4x \\right )} + C',
+
 ]
