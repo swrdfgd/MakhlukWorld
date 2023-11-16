@@ -34,5 +34,7 @@ splashList = [
 'It is flexible to read and get the latest news everywhere that you want via online news portal.',
 '中国证券报社版权所有，未经书面授权不得复制或建立镜像',
 'But it doesn’t have to be…',
+'Sezzle can only be used for US and Canada purchases.',
+'A tax that pulverized digital-asset trading in India has proved counterproductive and ought to be lowered, according to CoinDCX, a domestic exchange that was valued at over $2 billion before the levy was imposed.',
 
 ]
