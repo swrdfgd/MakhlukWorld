@@ -40,5 +40,7 @@ splashList = [
 'Youtube adalah contoh media sosialisasi digital.',
 'Indonesia terletak di antara dua benua yaitu benua Asia dan benua Australia.',
 'Tanpa adanya pancasila, negara indonesia tidak akan berdiri kokoh atau tidak memiliki dasar yang kuat',
+'Skema Pencernaan Lemak<br><img src="images/skema pencernaan lemak.PNG" />',
+'Contoh olahan bahan pangan setengah jadi: tahu, tepung, dan tempe.',
 
 ]
