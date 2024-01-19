@@ -42,5 +42,8 @@ splashList = [
 'Tanpa adanya pancasila, negara indonesia tidak akan berdiri kokoh atau tidak memiliki dasar yang kuat',
 'Skema Pencernaan Lemak<br><img src="images/skema pencernaan lemak.PNG" />',
 'Contoh olahan bahan pangan setengah jadi: tahu, tepung, dan tempe.',
+'Switch off the light when leaving the room.',
+'DPRD memiliki hak inisiatif yaitu hak untuk mengajukan rancangan undang-undang atau peraturan daerah.',
+'Suatu kantong berisi \\(x\\) kelereng merah dan \\(y\\) kelereng putih. Diambil satu kelereng secara acak dari kantong. Peluang terambilnya kelereng putih adalah \\( \\frac{y}{x+y} \\).'
 
 ]
